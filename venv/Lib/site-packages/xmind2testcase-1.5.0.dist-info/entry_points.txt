@@ -1,0 +1,3 @@
+[console_scripts]
+xmind2testcase = xmind2testcase.cli:cli_main
+
